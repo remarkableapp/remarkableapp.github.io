@@ -1,6 +1,9 @@
 #Remarkable
 ###Change Log (written using Remarkable!)
 
+**Version 1.62**
+- **Major**: Update to reflect domain change -> remarkableapp.github.io
+
 **Version 1.61 (29/06/15)**
 - **Fix**: scrolling bug (finally!) ->oldest bug!
 - **Fix**: tooltip error
