@@ -1,5 +1,7 @@
 # remarkableapp.github.io
-The homepage for Remarkable - Markdown Editor 
+The homepage for [Remarkable - Markdown Editor ](http://remarkableapp.github.io)
+
+GitHub repository for [Remarkable](https://github.com/jamiemcg/Remarkable/)
 
 
 ###Note:
@@ -13,4 +15,4 @@ The website uses the following:
 
 ----
 
-The Windows version is currently in development and will be released very soon.
+The Windows version is currently in development.
