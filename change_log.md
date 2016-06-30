@@ -1,12 +1,15 @@
 #Remarkable
 ###Change Log (written using Remarkable!)
 
-**Version 1.81**
-- **Fix**: Fixed setup.py which was messing up the .desktop file (icon theme support)
+**Version 1.75**
+- **Fix**: Fix startup crash error on Ubuntu 16.04 and other distros
+- **New**: Local path image support (buggy)
+- **New**: Change GitHub repository https://github.com/jamiemcg/Remarkable
+- **Misc**: Bug fixes
 
 
 **Version 1.62**
-- **Major**: Update to reflect domain change -> remarkableapp.github.io
+- **New**: Update to reflect domain change -> remarkableapp.github.io
 
 **Version 1.61 (29/06/15)**
 - **Fix**: scrolling bug (finally!) ->oldest bug!
