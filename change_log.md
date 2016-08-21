@@ -1,6 +1,20 @@
 #Remarkable
 ###Change Log (written using Remarkable!)
 
+[Remarkable homepage](http://remarkableapp.github.io)
+[Remarkable repository](http://github.com/jamiemcg/remarkable) 
+
+**Version 1.87**
+- **New**: Syntax Highlighting for markdown in editor pane
+- **New**: Horizontal Layout
+- **New**: Display line numbers
+- **New**: Join and Sort lines
+- **New**: Paste Images (thanks to **@pkorpine**)
+- **New**: Built in markdown tutorial (Help -> Markdown Tutorial)
+- **Improved**: Now launches new Remarkable process when opening/creating files
+- **Improved**: Styles (syntax highlighting in darker themes)
+- **Fix**: Settings file bug
+
 **Version 1.75**
 - **Fix**: Fix startup crash error on Ubuntu 16.04 and other distros
 - **New**: Local path image support (buggy)
