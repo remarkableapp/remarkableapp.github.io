@@ -2,9 +2,22 @@
 ###Change Log (written using Remarkable!)
 
 [Remarkable homepage](http://remarkableapp.github.io)
+
 [Remarkable repository](http://github.com/jamiemcg/remarkable) 
 
+**Version 1.95 (21/09/2024)**
+
+- Updated dependencies for 2024
+- Tested on Ubuntu 24.04 LTS
+- Rewrote/fixed remarkable markdown extensions to work with newer version of python-markdown
+- Synchronised scrolling is still broken!
+
+**Version 1.9**
+
+Not packaged.
+
 **Version 1.87**
+
 - **New**: Syntax Highlighting for markdown in editor pane
 - **New**: Horizontal Layout
 - **New**: Display line numbers
@@ -16,6 +29,7 @@
 - **Fix**: Settings file bug
 
 **Version 1.75**
+
 - **Fix**: Fix startup crash error on Ubuntu 16.04 and other distros
 - **New**: Local path image support (buggy)
 - **New**: Change GitHub repository https://github.com/jamiemcg/Remarkable
@@ -23,9 +37,11 @@
 
 
 **Version 1.62**
+
 - **New**: Update to reflect domain change -> remarkableapp.github.io
 
 **Version 1.61 (29/06/15)**
+
 - **Fix**: scrolling bug (finally!) ->oldest bug!
 - **Fix**: tooltip error
 - **Fix**: icon compatibility (this time!)
@@ -35,6 +51,7 @@
 - **Fix**: misc fixes
 
 **Version 1.41 (19/04/15)**
+
 - **Fix**: fixed PDF export (again)
 - **Fix**: fixes errors regarding python-markdown
 - **Fix**: general stability/compatibility improvements
@@ -43,12 +60,14 @@
 - **New**: changed versioning scheme
 
 **Version 1.25 (08/02/15)**
+
 - **New**: added ability to change editor font
 - **New**: added TOC feature
 - **Improved**: improved compatibility
 - **Fix**: added some code to prevent simple crashes
 
 **Version 1.025 (04/02/15)**
+
 - **New**: added MathJax support (slightly buggy)
 - **New**: added support for local images
 - **New**: export PDF without CSS
@@ -57,6 +76,7 @@
 
 
 **Version 0.975 (05/09/14)**
+
 - **Improved**: loading of user settings
 - **New**: convert selected text to lowercase, titlecase, uppercase
 - **New**: copy selection to clipboard as HTML
